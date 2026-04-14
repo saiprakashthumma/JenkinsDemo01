@@ -1,1 +1,8 @@
 KIDRICH-D3 is a vitamin D3 supplement in drop form, which is often recommended for infants to support bone health and immune function. Vitamin D is crucial for calcium absorption and overall growth.
+
+wehbooks :
+n Jenkins, webhooks are typically used with services like GitHub, GitLab, or Bitbucket to trigger builds automatically when code changes are pushed to the repository.
+Do you want to:
+Set up a webhook in Jenkins for a specific project?
+Understand how webhooks work in Jenkins?
+Troubleshoot a webhook issue in your Jenkins setup?
