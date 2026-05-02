@@ -7,3 +7,5 @@ Set up a webhook in Jenkins for a specific project?
 Understand how webhooks work in Jenkins?
 Troubleshoot a webhook issue in your Jenkins setup?
 to set up a webhook in Jenkins, you'll need to:Install the required plugin (e.g., GitHub Plugin or GitLab Plugin)Configure the plugin with your repository credentialsCreate a Jenkins job or pipelineAdd a webhook URL to your repository (usually in the settings or integrations section)The webhook URL typically looks like:
+
+Hi team editing file git hub
